@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(openspec list:*)",
+      "Bash(mkdir:*)",
+      "Bash(openspec validate:*)",
+      "Bash(openspec show:*)",
+      "Bash(openspec archive add-timestamp-to-hello-world:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
